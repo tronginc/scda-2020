@@ -1,0 +1,686 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Popup anything on click\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-14 11:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:387
+msgid ""
+" Enter the popup loader speed. Leave empty for default. Value should be in "
+"milliseconds. e.g 300."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:376
+msgid " Select popup loader color."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:242
+msgid "150"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:222
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:232
+msgid "300"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:193
+msgid "300px"
+msgstr ""
+
+#: includes/popupaoc-post-types.php:23
+msgid "Add New Popup"
+msgstr ""
+
+#: includes/popupaoc-post-types.php:22
+msgid "Add Popup"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:342
+msgid ""
+"Allow users to close the popup by clicking the overlay or outside the popup."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:443
+msgid "Background Image Repeat"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:457
+msgid "Background Position X"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:470
+msgid "Background Position Y"
+msgstr ""
+
+#: includes/popupaoc-functions.php:52
+msgid "Blur"
+msgstr ""
+
+#: includes/popupaoc-functions.php:93
+msgid "Bottom"
+msgstr ""
+
+#: includes/popupaoc-functions.php:35
+msgid "Button"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:108
+msgid "Button Custom Class"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:98
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:101
+msgid "Button Text"
+msgstr ""
+
+#: includes/popupaoc-functions.php:76 includes/popupaoc-functions.php:91
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:461
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:462
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:474
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:475
+msgid "Center"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:127
+msgid "Clear"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:338
+msgid "Close Popup On Overlay"
+msgstr ""
+
+#: includes/popupaoc-functions.php:61
+msgid "Content Scale"
+msgstr ""
+
+#: includes/popupaoc-functions.php:57
+msgid "Corner"
+msgstr ""
+
+#: includes/popupaoc-post-types.php:67
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/popupaoc-post-types.php:66
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:239
+msgid "Delay"
+msgstr ""
+
+#: includes/admin/settings/settings.php:58
+msgid "Disable polyfill js file to load from this plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Display a modal popup by clicking on a link, image or button. Also work with "
+"Gutenberg shortcode block."
+msgstr ""
+
+#: includes/popupaoc-post-types.php:24
+msgid "Edit Popup"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:201
+msgid "Effect"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:158
+msgid "Enable Image Caption."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:147
+msgid "Enable Image Title."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:353
+msgid "Enable Loader"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:365
+msgid "Enable loader."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:295
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:307
+msgid "Enable Overlay"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:183
+msgid ""
+"Enable popup full screen. NOTE: If you are using Full Screen: True then "
+"Popup Width value added by you will not work."
+msgstr ""
+
+#: includes/admin/class-popupaoc-admin.php:100
+msgid "Enter event action. eg : Popup-Click"
+msgstr ""
+
+#: includes/admin/class-popupaoc-admin.php:108
+msgid "Enter event category. Eg: Popup-Open"
+msgstr ""
+
+#: includes/admin/class-popupaoc-admin.php:116
+msgid "Enter event label. eg: Popup"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:112
+msgid ""
+"Enter Popup button custom class if you want to apply your own custom styling."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:102
+msgid "Enter Popup button text."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:89
+msgid "Enter text."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:233
+msgid "Enter the speed end of the animation in milliseconds."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:223
+msgid "Enter the speed start of the animation in milliseconds."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:243
+msgid "Enter the wait before the transition effect start."
+msgstr ""
+
+#: includes/admin/class-popupaoc-admin.php:97
+msgid "Event Action"
+msgstr ""
+
+#: includes/admin/class-popupaoc-admin.php:105
+msgid "Event Category"
+msgstr ""
+
+#: includes/admin/class-popupaoc-admin.php:113
+msgid "Event Label"
+msgstr ""
+
+#: includes/popupaoc-functions.php:48
+msgid "Fadein"
+msgstr ""
+
+#: includes/popupaoc-functions.php:50
+msgid "Fall"
+msgstr ""
+
+#: includes/popupaoc-functions.php:107 includes/popupaoc-functions.php:123
+#: includes/popupaoc-functions.php:137
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:144
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:155
+msgid "False"
+msgstr ""
+
+#: includes/popupaoc-functions.php:51
+msgid "Flip"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:171
+msgid "Full Screen"
+msgstr ""
+
+#: includes/admin/settings/settings.php:45
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/class-popupaoc-admin.php:48
+msgid "Google Analytic Event Setting"
+msgstr ""
+
+#: includes/admin/settings/hire-us.php:18
+msgid "Highlight of Hiring:"
+msgstr ""
+
+#: includes/admin/class-popupaoc-admin.php:245
+msgid "Hire Us"
+msgstr ""
+
+#: includes/admin/settings/hire-us.php:15
+msgid "Hire Us - Get unlimited expert WordPress Support and Development"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.wponlinesupport.com/plugins"
+msgstr ""
+
+#: includes/admin/class-popupaoc-admin.php:74
+msgid ""
+"If adding the button or link to your theme files, add the following template "
+"code."
+msgstr ""
+
+#: includes/popupaoc-functions.php:34
+msgid "Image"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:152
+msgid "Image Caption"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:141
+msgid "Image Title"
+msgstr ""
+
+#: includes/admin/settings/settings.php:59
+msgid "Include polyfill js file in header"
+msgstr ""
+
+#: popup-anything-on-click.php:83
+#, php-format
+msgid ""
+"It looks like you had PRO version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: includes/popupaoc-functions.php:77
+msgid "Left"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:86
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:88
+msgid "Link Text"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:65
+msgid "Link type"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:383
+msgid "Loader Speed"
+msgstr ""
+
+#: includes/admin/settings/settings.php:53
+msgid "Manage Polyfill JS"
+msgstr ""
+
+#: includes/popupaoc-post-types.php:25
+msgid "New Popup"
+msgstr ""
+
+#: includes/popupaoc-post-types.php:28
+msgid "No Popup found"
+msgstr ""
+
+#: includes/popupaoc-post-types.php:29
+msgid "No Popup found in trash"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:447
+msgid "No Repeat"
+msgstr ""
+
+#: includes/admin/settings/settings.php:61
+msgid ""
+"Note : If you are facing any error related Polyfill JS eg : Uncaught Error: "
+"only one instance of babel-polyfill is allowed, than select above option to "
+"hide plugin polyfill js or inluclude polyfill js in header so no conflict "
+"arise with default js of WordPress. You are getting this error because of "
+"there are two version of polyfill.js loading in your website."
+msgstr ""
+
+#: includes/popupaoc-post-types.php:20 includes/popupaoc-post-types.php:21
+#: includes/popupaoc-post-types.php:31
+msgid "Popup Anything"
+msgstr ""
+
+#: includes/admin/class-popupaoc-admin.php:47
+msgid "Popup Anything - Settings"
+msgstr ""
+
+#. Name of the plugin
+msgid "Popup anything on click"
+msgstr ""
+
+#: includes/admin/settings/premium.php:15
+msgid "Popup Anything On Click - Features"
+msgstr ""
+
+#: includes/admin/settings/settings.php:20
+msgid "Popup Anything on Click - Settings"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:399
+msgid "Popup Background Color"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:409
+msgid "Popup Background Color Opacity"
+msgstr ""
+
+#: includes/admin/class-popupaoc-admin.php:49
+msgid "Popup Background Image"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:437
+msgid ""
+"Popup Background Image Setting. (Note: These settings only works with Popup "
+"background image)"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:393
+msgid "Popup Colors Setting"
+msgstr ""
+
+#: includes/popupaoc-post-types.php:75
+msgid "Popup draft updated."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:419
+msgid "Popup Fonts Color"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:122
+msgid "Popup Image"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:372
+msgid "Popup Loader Color"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:348
+msgid "Popup Loader Setting"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:314
+msgid "Popup Overlay Color"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:326
+msgid "Popup Overlay Opacity"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:289
+msgid "Popup Overlay Setting"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:248
+msgid "Popup Position"
+msgstr ""
+
+#: includes/popupaoc-post-types.php:70
+msgid "Popup published."
+msgstr ""
+
+#: includes/popupaoc-post-types.php:69
+#, php-format
+msgid "Popup restored to revision from %s"
+msgstr ""
+
+#: includes/popupaoc-post-types.php:71
+msgid "Popup saved."
+msgstr ""
+
+#: includes/popupaoc-post-types.php:73
+#, php-format
+msgid "Popup scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:166
+msgid "Popup Screen and Effects"
+msgstr ""
+
+#: includes/popupaoc-post-types.php:72
+msgid "Popup submitted."
+msgstr ""
+
+#: includes/popupaoc-post-types.php:65 includes/popupaoc-post-types.php:68
+msgid "Popup updated."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:190
+msgid "Popup Width"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:254
+msgid "PositionX"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:272
+msgid "PositionY"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:108
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:314
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:326
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:338
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:372
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:383
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:393
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:437
+msgid "PRO"
+msgstr ""
+
+#: includes/popupaoc-functions.php:58
+msgid "Push"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:448
+msgid "Repeat"
+msgstr ""
+
+#: includes/popupaoc-functions.php:78
+msgid "Right"
+msgstr ""
+
+#: includes/popupaoc-functions.php:53
+msgid "Rotate"
+msgstr ""
+
+#: includes/admin/settings/settings.php:66
+msgid "Save Changes"
+msgstr ""
+
+#: includes/popupaoc-functions.php:60
+msgid "scale"
+msgstr ""
+
+#: includes/popupaoc-post-types.php:27
+msgid "Search Popup"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:213
+msgid "Select effect."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:78
+msgid "Select on click type ie where user going to click."
+msgstr ""
+
+#: includes/admin/settings/settings.php:57
+msgid "Select Option"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:403
+msgid "Select popup background color."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:450
+msgid "Select popup background image repeat."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:464
+msgid "Select popup background position X (Horizontal)"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:477
+msgid "Select popup background position Y (Vertical)"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:423
+msgid "Select popup fonts color."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:318
+msgid "Select popup overlay background color."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:266
+msgid "Select positionx."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:284
+msgid "Select positiony."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:194
+msgid "Set popup width. e.g 80% OR 800px. Leave empty for default width."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:413
+msgid ""
+"Set the popup background color opacity if background image also added. Value "
+"must be from 0 to 1."
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:330
+msgid "Set the popup overlay opacity. Value must be from 0 to 1."
+msgstr ""
+
+#: includes/admin/class-popupaoc-admin.php:239
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-popupaoc-admin.php:239
+msgid "Settings - Popup Anything on Click"
+msgstr ""
+
+#: includes/admin/class-popupaoc-admin.php:50
+#: includes/admin/class-popupaoc-admin.php:70
+#: includes/admin/class-popupaoc-admin.php:191
+msgid "Shortcode"
+msgstr ""
+
+#: includes/popupaoc-functions.php:54
+msgid "Sign"
+msgstr ""
+
+#: includes/popupaoc-functions.php:33
+msgid "Simple Link"
+msgstr ""
+
+#: includes/popupaoc-functions.php:49
+msgid "Slide"
+msgstr ""
+
+#: includes/popupaoc-functions.php:62
+msgid "Slide Together"
+msgstr ""
+
+#: includes/popupaoc-functions.php:59
+msgid "Slip"
+msgstr ""
+
+#: includes/popupaoc-functions.php:56
+msgid "Slit"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:219
+msgid "SpeedIn"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:229
+msgid "SpeedOut"
+msgstr ""
+
+#: includes/popupaoc-functions.php:55
+msgid "Super scaled"
+msgstr ""
+
+#: includes/admin/class-popupaoc-admin.php:73
+msgid "Template Code"
+msgstr ""
+
+#: popup-anything-on-click.php:82
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: includes/admin/class-popupaoc-admin.php:71
+msgid ""
+"To display popup button or link, add the following shortcode to your page or "
+"post."
+msgstr ""
+
+#: includes/popupaoc-functions.php:92
+msgid "Top"
+msgstr ""
+
+#: includes/popupaoc-functions.php:108 includes/popupaoc-functions.php:122
+#: includes/popupaoc-functions.php:136
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:145
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:156
+msgid "True"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:432
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:486
+#, php-format
+msgid ""
+"Upgrade to <a href=\"%s\" target=\"_blank\">Premium Version</a> to get these "
+"options."
+msgstr ""
+
+#: includes/admin/class-popupaoc-admin.php:84
+#: includes/admin/class-popupaoc-admin.php:123
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:113
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:319
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:331
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:343
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:377
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:388
+#, php-format
+msgid ""
+"Upgrade to <a href=\"%s\" target=\"_blank\">Premium Version</a> to get this "
+"option."
+msgstr ""
+
+#: includes/admin/class-popupaoc-admin.php:242
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: includes/admin/class-popupaoc-admin.php:242
+msgid "Upgrade to PRO - Popup Anything"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:126
+msgid "Upload Image"
+msgstr ""
+
+#: includes/admin/metabox/popupaoc-post-sett-metabox.php:128
+msgid "Upload popup button image."
+msgstr ""
+
+#: includes/popupaoc-post-types.php:26
+msgid "View Popup"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP OnlineSupport"
+msgstr ""
+
+#: includes/admin/settings/settings.php:26
+msgid "Your changes saved successfully."
+msgstr ""

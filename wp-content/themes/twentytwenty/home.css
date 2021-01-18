@@ -1,0 +1,47 @@
+.nav-absolute {
+	bottom: 100px;
+	background: transparent;
+}
+
+.nav-absolute > div > ul {
+	position: relative;
+	display: block;
+	padding: 0 15px;
+}
+.group-absolute > a {
+	display: none;
+	list-style-type: none;
+	margin: 0;
+  	padding: 0;
+}
+
+.scda-logo > a {
+	display: block;
+	width: 230px;
+}
+
+.scda-logo > a > img {
+	max-width: 100%;
+}
+
+.group-absolute >  ul {
+	list-style-type: none;
+	margin: 0;
+  	padding: 0;
+	position: absolute;
+    bottom: 15px;
+   	left: 140px;
+}
+
+
+
+.group-absolute > ul > li > a{
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 1.8em;
+	color: #ffffff;
+	text-decoration: none;
+	white-space: nowrap;
+  	overflow: hidden;
+}
